@@ -3,7 +3,7 @@
 # <h1 align = "center">BRAC University - Summer 2025</h1>
 Welcome to the GitHub repository for the **Database Systems** course, **CSE321**, at **BRAC University** for the **Summer 2025** semester.
 
-This course is taught in **C Language** by my esteemed instructors:
+This course is taught in ** _ Language** by my esteemed instructors:
 - Theory: Mr. _ **_**
 - Laboratory: Mr. _ **(_)** and Mr. _ **(_)**
 
