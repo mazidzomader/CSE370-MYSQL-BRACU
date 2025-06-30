@@ -3,9 +3,9 @@
 # <h1 align = "center">BRAC University - Summer 2025</h1>
 Welcome to the GitHub repository for the **Database Systems** course, **CSE370**, taught at **BRAC University** for the **Summer 2025** semester.
 
-This course is taught in ** MySQL** by my esteemed instructors:
+This course is taught in **MySQL** by my esteemed instructors:
 - Theory: Mr. Md Nafiz Ishtiaque Mahee **(NQM)**
-- Laboratory: Mr. _ **(_)** and Mr. _ **(_)**
+- Laboratory: Mr. A S M NASIM KHAN **(ASMN)** and Mr. Tamkin Mahmud Tan **(TMD)**
 
 ## ⚠️ Academic Integrity Policy
 
